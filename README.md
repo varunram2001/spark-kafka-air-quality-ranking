@@ -1,4 +1,4 @@
-# OPPE2: Air Quality Monitoring and Ranking Pipeline: Real-Time Structured Streaming
+Air Quality Monitoring and Ranking Pipeline: Real-Time Structured Streaming
 
 ## 1. Project Overview
 
